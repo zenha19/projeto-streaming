@@ -1,0 +1,19 @@
+.background
+{
+    background-color: black;
+}
+
+.titulos{
+    color: red;
+    text-align: center;
+}
+
+.texto
+{
+color: white;
+}
+
+.links{
+    text-align: right;
+    color: white;
+}
