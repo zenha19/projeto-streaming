@@ -19,3 +19,16 @@ color: white;
 
 }
 
+.butao{
+    display: block;
+    
+    width: 100px;
+    height: 20px;
+}
+
+.menu
+{
+    display: none;
+}
+
+
