@@ -1,1 +1,471 @@
+[
+  
+{
+   "id":"1",
+    "nome":"film1",
+    "imagem":"poster1",
+    "caminhodeimagem":"img/film1.png",
+    "genero":"romance",
+    "ano":"2004",
+    "idaderecomendada":"+13",
+    "sinopse":"resumo",
+    "quantidade":1,
+    "duração":"2h 4m" 
+    
+ 
+},
 
+{
+   "id":"2",
+    "nome":"film2",
+    "imagem":"poster2",
+    "caminhodeimagem":"img/film2.png",
+    "genero":"romance",
+    "ano":"2016",
+    "idaderecomendada":"+16",
+    "sinopse":"resumo",
+    "quantidade":1,
+    "duração":"1h 50m"
+
+
+    
+    
+  
+},
+{
+   "id":"3",
+    "nome":"film3",
+    "imagem":"poster3",
+    "caminhodeimagem":"img/film3.png",
+    "genero":"romance",
+    "ano":"2008",
+    "idaderecomendada":"+15",
+    "sinopse":"resumo",
+    "quantidade":1,
+    "duração":"1h 5m"
+ 
+},
+
+{
+   "id":"4",
+    "nome":"film4",
+    "imagem":"poster4",
+    "caminhodeimagem":"img/film4.png",
+    "genero":"romance",
+    "ano":"2020",
+    "idaderecomendada":"+12",
+    "sinopse":"resumo",
+    "quantidade":1,
+    "duração":"2h 7m"
+
+
+    
+    
+  
+},
+{
+   "id":"5",
+    "nome":"film5",
+    "imagem":"poster5",
+    "caminhodeimagem":"img/film5.png",
+    "genero":"romance",
+    "ano":"1997",
+    "idaderecomendada":"+18",
+    "sinopse":"resumo",
+    "quantidade":1,
+    "duração":"1h 27m"
+ 
+},
+
+{
+   "id":"6",
+    "nome":"film6",
+    "imagem":"poster6",
+    "caminhodeimagem":"img/film6.png",
+    "genero":"comedia",
+    "ano":"1963",
+    "idaderecomendada":"+8",
+    "sinopse":"resumo",
+    "quantidade":1,
+    "duração":"1h 32m"
+    
+    
+  
+},
+{
+   "id":"7",
+    "nome":"film7",
+    "imagem":"poster7",
+    "caminhodeimagem":"img/film7.png",
+    "genero":"comedia",
+    "ano":"2006",
+    "idaderecomendada":"+12",
+    "sinopse":"resumo",
+    "quantidade":1,
+    "duração":"1h 42m"
+ 
+},
+
+{
+   "id":"8",
+    "nome":"film8",
+    "imagem":"poster8",
+    "caminhodeimagem":"img/film8.png",
+    "genero":"comedia",
+    "ano":"2010",
+    "idaderecomendada":"+16",
+    "sinopse":"resumo",
+    "quantidade":1,
+    "duração":"1h 57m"
+
+
+    
+    
+  
+},
+{
+   "id":"9",
+    "nome":"film9",
+    "imagem":"nome da imagem",
+    "caminhodeimagem":"img/film9.png",
+    "genero":"comedia",
+    "ano":"2013",
+    "idaderecomendada":"+3",
+    "sinopse":"resumo",
+    "quantidade":1,
+    "duração":"1h 28m"
+
+ 
+},
+
+{
+   "id":"10",
+    "nome":"film10",
+    "imagem":"nome da imagem",
+    "caminhodeimagem":"img/film10.png",
+    "genero":"comedia",
+    "ano":"2002",
+    "idaderecomendada":"+15",
+    "sinopse":"resumo",
+    "quantidade":1,
+      "duração":"1h 15m"
+
+
+
+    
+    
+  
+},
+{
+   "id":"11",
+    "nome":"film11",
+    "imagem":"nome da imagem",
+    "caminhodeimagem":"img/film11.png",
+    "genero":"ação",
+    "ano":"1972",
+    "idaderecomendada":"+12",
+    "sinopse":"resumo",
+    "quantidade":1,
+      "duração":"1h 33m"
+
+ 
+},
+
+{
+   "id":"12",
+    "nome":"film12",
+    "imagem":"nome da imagem",
+    "caminhodeimanull=gem":"img/film12.png",
+    "genero":"ação",
+    "ano":"2001",
+    "idaderecomendada":"+13",
+    "sinopse":"resumo",
+    "quantidade":1,
+      "duração":"1h 57m"
+
+
+
+    
+    
+  
+},
+{
+   "id":"13",
+    "nome":"film13",
+    "imagem":"nome da imagem",
+    "caminhodeimagem":"img/film13.png",
+    "genero":"ação",
+    "ano":"2005",
+    "idaderecomendada":"+16",
+    "sinopse":"resumo",
+    "quantidade":1,
+    "duração":"1h 30m"
+
+ 
+},
+
+{
+   "id":"14",
+    "nome":"film14",
+    "imagem":"nome da imagem",
+    "caminhodeimagem":"img/film14.png",
+    "genero":"ação",
+    "ano":"2010",
+    "idaderecomendada":"+17",
+    "sinopse":"resumo",
+    "quantidade":1,
+      "duração":"1h 57m"
+
+
+
+    
+    
+  
+},
+{
+   "id":"15",
+    "nome":"film15",
+    "imagem":"nome da imagem",
+    "caminhodeimagem":"img/film15.png",
+    "genero":"ação",
+    "ano":"2000",
+    "idaderecomendada":"+9",
+    "sinopse":"resumo",
+    "quantidade":1,
+      "duração":"2h 3m"
+
+ 
+},
+
+{
+   "id":"16",
+    "nome":"serie1",
+    "imagem":"nome da imagem",
+    "caminhodeimagem":"img/serie1.png",
+    "genero":"romance",
+    "ano":"1998",
+    "idaderecomendada":"+14",
+    "sinopse":"resumo",
+    "quantidade":53,
+    "duração":"34 m"},
+{
+   "id":"17",
+    "nome":"serie2",
+    "imagem":"nome da imagem",
+    "caminhodeimagem":"img/serie2.png",
+    "genero":"romance",
+    "ano":"2000",
+    "idaderecomendada":"+15",
+    "sinopse":"resumo",
+    "quantidade":24,
+    "duração":"22 m"
+ 
+},
+
+{
+   "id":"18",
+    "nome":"serie3",
+    "imagem":"nome da imagem",
+    "caminhodeimagem":"img/serie3.png",
+    "genero":"romance",
+    "ano":"2006",
+    "idaderecomendada":"+16",
+    "sinopse":"resumo",
+    "quantidade":45,
+    "duração":"17 m"
+
+
+    
+    
+  
+},
+{
+   "id":"19",
+    "nome":"serie4",
+    "imagem":"nome da imagem",
+    "caminhodeimagem":"img/serie4.png",
+    "genero":"romance",
+    "ano":"2019",
+    "idaderecomendada":"+12",
+    "sinopse":"resumo",
+    "quantidade":12,
+    "duração":"24 m"
+ 
+},
+
+{
+   "id":"20",
+    "nome":"serie5",
+    "imagem":"nome da imagem",
+    "caminhodeimagem":"img/serie5.png",
+    "genero":"romance",
+    "ano":"2022",
+    "idaderecomendada":"+12",
+    "sinopse":"resumo",
+    "quantidade":16,
+    "duração":"26 m"
+
+
+    
+    
+  
+},
+{
+   "id":"21",
+    "nome":"serie6",
+    "imagem":"nome da imagem",
+    "caminhodeimagem":"img/serie6",
+    "genero":"comedia",
+    "ano":"1984",
+    "idaderecomendada":"+7",
+    "sinopse":"resumo",
+    "quantidade":4,
+    "duração":"6 m"
+ 
+},
+
+{
+   "id":"22",
+    "nome":"serie7",
+    "imagem":"nome da imagem",
+    "caminhodeimagem":"img/serie7",
+    "genero":"comedia",
+    "ano":"2000",
+    "idaderecomendada":"+12",
+    "sinopse":"resumo",
+    "quantidade":24,
+    "duração":"21 m"
+
+
+    
+    
+  
+},
+{
+   "id":"23",
+    "nome":"serie8",
+    "imagem":"nome da imagem",
+    "caminhodeimagem":"img/serie8.png",
+    "genero":"comedia",
+    "ano":"2022",
+    "idaderecomendada":"+12",
+    "sinopse":"resumo",
+    "quantidade":15,
+    "duração":"22 m"
+ 
+},
+
+{
+   "id":"24",
+    "nome":"serie9",
+    "imagem":"nome da imagem",
+    "caminhodeimagem":"img/serie9.png",
+    "genero":"comedia",
+    "ano":"2010",
+    "idaderecomendada":"+9",
+    "sinopse":"resumo",
+    "quantidade":25,
+    "duração":"12 m"
+
+
+    
+    
+  
+},
+{
+   "id":"25",
+    "nome":"serie10",
+    "imagem":"nome da imagem",
+    "caminhodeimagem":"img/serie10.png",
+    "genero":"comedia",
+    "ano":"2017",
+    "idaderecomendada":"+12",
+    "sinopse":"resumo",
+    "quantidade":35,
+    "duração":"28 m"
+ 
+},
+
+{
+   "id":"26",
+    "nome":"serie11",
+    "imagem":"nome da imagem",
+    "caminhodeimagem":"img/serie11.png",
+    "genero":"ação",
+    "ano":"2016",
+    "idaderecomendada":"+16",
+    "sinopse":"resumo",
+    "quantidade":28,
+    "duração":"29 m"
+
+
+    
+    
+  
+},
+{
+   "id":"27",
+    "nome":"serie12",
+    "imagem":"nome da imagem",
+    "caminhodeimagem":"img/serie12.png",
+    "genero":"ação",
+    "ano":"2008",
+    "idaderecomendada":"+12",
+    "sinopse":"resumo",
+    "quantidade":154,
+    "duração":"23 m"
+    
+ 
+},
+
+{
+   "id":"28",
+    "nome":"serie13",
+    "imagem":"nome da imagem",
+    "caminhodeimagem":"img/serie13.png",
+    "genero":"ação",
+    "ano":"1990",
+    "idaderecomendada":"+12",
+    "sinopse":"resumo",
+    "quantidade":33,
+    "duração":"30 m"
+
+
+    
+    
+  
+},
+{
+   "id":"29",
+    "nome":"serie14",
+    "imagem":"nome da imagem",
+    "caminhodeimagem":"img/serie14.png",
+    "genero":"ação",
+    "ano":"2010",
+    "idaderecomendada":"+15",
+    "sinopse":"resumo",
+    "quantidade":72,
+    "duração":"37 m"
+ 
+},
+
+{
+   "id":"30",
+    "nome":"serie15",
+    "imagem":"nome da imagem",
+    "caminhodeimagem":"img/serie15.png",
+    "genero":"ação",
+    "ano":"2009",
+    "idaderecomendada":"+12",
+    "sinopse":"resumo",
+    "quantidade":24,
+    "duração":"22 m"
+
+
+    
+    
+  
+}
+
+
+]
