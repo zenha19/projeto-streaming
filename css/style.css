@@ -1,14 +1,9 @@
-.background
-{
-    background-color: black;
-}
-
-.titulos{
+.titulos,.name{
     color: red;
     text-align: center;
 }
 
-.texto
+.texto,.genero,.ano,.duracao,.idade
 {
 color: white;
 }
@@ -16,7 +11,6 @@ color: white;
 .links{
     text-align: right;
     color: white;
-
 }
 
 .butao{
@@ -30,5 +24,34 @@ color: white;
 {
     display: none;
 }
+.poster
+{
+
+   display: inline-block;
+
+   width: 25%;
+
+   justify-content: center;
+
+   
+}
+div{
+   
+  background-color: black ;
+ 
+
+}
+
+.imagem{}
+
+
+
+#divmain{
+   display: flex;
+   justify-content: center;
+
+}
+
+
 
 
